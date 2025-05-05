@@ -55,7 +55,12 @@
 			<version>3.0.0</version>
 		</dependency>
 
-	</dependencies>
+		<dependency>
+			<groupId>creatio</groupId>
+			<artifactId>CreatioCRMTestNGFramework</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+  </dependencies>
 
 	<build>
 
